@@ -112,7 +112,7 @@ height:var(--header-height);">
        
        <a href=""><div class="fire_row_load" id="fire_row_load"><button id="load_more_anbtn" data-page
                 style="padding-left: 25px; padding-right: 25px; padding-top: 10px;font-weight:1000; padding-bottom: 10px;width:50%"
-                class="btn-11 custom-btn"> Made By @sanjiblive</button></div></a> 
+                class="btn-11 custom-btn"> Made By MUKESH</button></div></a> 
         <br><br><br>
     </center>
 
