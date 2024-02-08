@@ -5,7 +5,7 @@
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 
 <head>
-<title>iPlexPlayer </title>
+<title>KK Xstream Play</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <link rel="stylesheet" href="channels3f22.css">
